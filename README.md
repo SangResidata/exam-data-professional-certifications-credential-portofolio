@@ -22,8 +22,8 @@ With a background in **Industrial Engineering (Universitas Indonesia & ITATS)** 
 
 ### 3. Data Analytics 📊
 *Focusing on business intelligence, visualization, and actionable insights.*
-* **Tableau Specialist** | (Internal/Project Based - Bank BRI)
-* **Power BI Ecosystem Architect** | (Kejaksaan Tinggi RI Project)
+* **Tableau Specialist** | (Internal/Project Based - Bank BRI).
+* **Power BI Ecosystem Architect** | (Kejaksaan Tinggi RI Project).
 
 ---
 
