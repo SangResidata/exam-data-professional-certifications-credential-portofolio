@@ -28,9 +28,9 @@ With a background in **Industrial Engineering (Universitas Indonesia & ITATS)** 
 ---
 
 ## 🎓 Academic Foundation
-* **Master of Technology (M.T.) in Industrial Engineering** | Universitas Indonesia
-* **Bachelor of Engineering (S.T.) in Industrial Engineering** | ITATS
-* **Degree in Statistics** | Institut Teknologi Sepuluh Nopember (ITS)
+* **Master of Technology (M.T.) in Industrial Engineering** | Universitas Indonesia.
+* **Bachelor of Engineering (S.T.) in Industrial Engineering** | ITATS.
+* **Degree in Statistics** | Institut Teknologi Sepuluh Nopember (ITS).
 
 ---
 
