@@ -36,9 +36,9 @@ With a background in **Industrial Engineering (Universitas Indonesia & ITATS)** 
 
 ## 📈 Professional Impact
 My certification path is driven by real-world challenges encountered during my tenure as:
-* **Tenaga Ahli Data** at DPR-RI
-* **Big Data Intelligence Consultant** at Kejaksaan Tinggi RI
-* **Product Analyst Consultant** at ASTRA Honda Motor
+* **Tenaga Ahli Data** at DPR-RI.
+* **Big Data Intelligence Consultant** at Kejaksaan Tinggi RI.
+* **Product Analyst Consultant** at ASTRA Honda Motor.
 
 ---
 
