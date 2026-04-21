@@ -18,7 +18,7 @@ With a background in **Industrial Engineering (Universitas Indonesia & ITATS)** 
 *Focusing on predictive modeling, MLOps, and statistical inference.*
 * **Associate AI & ML Engineer** | BootUp Academy.
 * **Core Designer Certificate** | Dataiku.
-* **Specialization in Inferential Statistics** |.
+* **Specialization in Inferential Statistics**
 
 ### 3. Data Analytics 📊
 *Focusing on business intelligence, visualization, and actionable insights.*
