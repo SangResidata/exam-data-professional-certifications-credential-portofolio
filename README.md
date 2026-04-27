@@ -12,7 +12,7 @@ With a background in **Industrial Engineering (Universitas Indonesia & ITATS)** 
 ### 1. Data Engineering 🛠️
 *Focusing on scalable architectures, CI/CD pipelines, and robust data movement.*
 * **Data Engineering Zoomcamp** | DataTalksClub | *In Progress*
-  * Key Tech: Docker, PostgreSQL, Terraform, Apache Spark, dlt.
+  * Key Tech: Docker, PostgreSQL, Terraform, Apache Spark, Airflow, dlt.
 
 ### 2. Data Science & Machine Learning 🤖
 *Focusing on predictive modeling, MLOps, and statistical inference.*
